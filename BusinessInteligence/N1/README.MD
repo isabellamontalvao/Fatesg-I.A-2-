@@ -1,5 +1,13 @@
 # 📊 Business Intelligence - FATESG
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/Business_Intelligence-F2C94C?style=for-the-badge&logo=data-analyst&logoColor=black" alt="BI Badge" />
+    <img src="https://img.shields.io/badge/Inteligência_Artificial-0052CC?style=for-the-badge&logo=ai&logoColor=white" alt="IA Badge" />
+    <img src="https://img.shields.io/badge/FATESG-FF4B4B?style=for-the-badge&logo=senai&logoColor=white" alt="FATESG Badge" />
+    <img src="https://img.shields.io/badge/SENAI-00519E?style=for-the-badge&logo=senai&logoColor=white" alt="SENAI Badge" />
+</p>
+
 Repositório dedicado aos roteiros de estudos, exercícios e projetos da disciplina de **Business Intelligence (BI)**, pertencente ao curso superior de tecnologia em **Inteligência Artificial** da Faculdade de Tecnologia SENAI Ítalo Bologna (**FATESG**).
 
 ## 🎯 Objetivo
